@@ -1,3 +1,5 @@
+_(This follows Fredrik K. Gustafsson's method for summarizing research papers. ([[github]](https://github.com/fregu856/papers))_
+
 # About
 I categorize, annotate and write comments for all research papers I read.
 
