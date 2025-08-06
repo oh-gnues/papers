@@ -5,7 +5,7 @@ I categorize, annotate and write comments for all research papers I read.
 [Maintainability], [Refactoring], [Large Language Models].
 
 ### Papers:
-- [Papers Read in 2025]
+- [Papers Read in 2025](#papers-read-in-2025)
 
 #### Papers Read in 2025:
 
